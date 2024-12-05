@@ -3,23 +3,16 @@
 layout: home
 
 hero:
-  name: "my blog"
-  text: "a blog"
-  tagline: My great project tagline
+  name: "prhzzzsl"
+  text: "一个博客"
+  tagline: 记录一些东西
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 开始
+      link: /wealth
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 理财
+    details: 学习（踩坑）之旅
 ---
 
