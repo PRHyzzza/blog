@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: "/blog/",
   title: "prhzzzsl",
+  lang: 'zh-CN',
   description: "a blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -25,10 +26,31 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'vitepress', link: 'https://github.com/vuejs/vitepress' },
       { icon: 'github', link: 'https://github.com/PRHyzzza/blog' }
-    ]
+    ],
+    docFooter: {
+      prev: '上一页',
+      next: '下一页',
+    },
+    outline: {
+      level: 'deep',
+      label: 'Content'
+    },
+    lastUpdated: {
+      text: '最后更新于'
+    },
+    search: {
+      provider: 'local',
+      options:{
+        translations: {
+          button: {
+            buttonText: '搜索文档',
+            buttonAriaLabel: '搜索文档'
+          }
+        }
+      }
+    }
   }
 })
