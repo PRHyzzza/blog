@@ -13,7 +13,7 @@ hero:
 
 features:
   - title: 理财
-    details: 学习（踩坑）之旅，目前+3,032.68
+    details: 学习（踩坑）之旅，目前+3,113.84
     link: /wealth/2024-12
   - title: 编程
     details: 学习、项目
