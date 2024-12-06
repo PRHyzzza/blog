@@ -6,6 +6,9 @@ export default defineConfig({
   title: "prhzzzsl",
   lang: 'zh-CN',
   description: "a blog",
+  head: [
+    ['link', { rel: 'icon', href: './logo.png' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

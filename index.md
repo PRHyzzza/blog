@@ -6,6 +6,7 @@ hero:
   name: "prhzzzsl"
   text: "一个博客"
   tagline: 记录一些东西
+  image: ./logo.png
   actions:
     - theme: brand
       text: 开始
