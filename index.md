@@ -18,6 +18,6 @@ features:
     link: /wealth/2024-12
   - title: 编程
     details: 学习、项目
-    link: /code/2024-12
+    link: /code/useEcharts
 ---
 

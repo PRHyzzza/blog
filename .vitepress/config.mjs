@@ -25,7 +25,7 @@ export default defineConfig({
       {
         text: '编程',
         items: [
-          { text: '2024-12', link: '/code/2024-12' },
+          { text: 'useEcharts', link: '/code/useEcharts' },
         ]
       }
     ],

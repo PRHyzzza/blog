@@ -1,3 +1,4 @@
+```js
 // useECharts.js
 import { onMounted, onUnmounted, ref, watch } from 'vue';
 import * as echarts from 'echarts/core';
@@ -73,3 +74,4 @@ export function useECharts(container, options) {
         chartInstance
     };
 }
+```
