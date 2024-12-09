@@ -5,3 +5,8 @@
 .green {
     color: #299764;
 }
+
+.echarts {
+    width: 100%;
+    height: 400px
+}
